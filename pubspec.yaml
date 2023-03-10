@@ -1,0 +1,12 @@
+name: topo_server
+version: 1.0.2
+description: Convert GeoJSON objects to TopoJSON topology and quantize it to increase quality.
+repository: https://github.com/SBanksX/topo_server
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.1
+  test: ^1.22.0
+  topo_client: ^1.0.0
