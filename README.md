@@ -1,3 +1,7 @@
+[![Dart CI](https://github.com/luizbarboza/topo_server/actions/workflows/ci.yml/badge.svg)](https://github.com/luizbarboza/topo_server/actions/workflows/ci.yml)
+[![pub package](https://img.shields.io/pub/v/topo_server.svg)](https://pub.dev/packages/topo_server)
+[![package publisher](https://img.shields.io/pub/publisher/topo_server.svg)](https://pub.dev/packages/topo_server/publisher)
+
 Convert GeoJSON objects to TopoJSON topology and quantize it to increase
 quality.
 
